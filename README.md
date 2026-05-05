@@ -1,5 +1,4 @@
-Here it is, clean and ready to copy:
-markdown# RFT-AI: Reliability & Fault-Tolerant AI Inference System
+RFT-AI: Reliability & Fault-Tolerant AI Inference System
 **Project 5: Resilient Architecture for Long-Running Transformer Inference**
 
 ## Project Overview
